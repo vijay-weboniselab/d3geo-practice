@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/d3geo-practice/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/d3geo-practice/static/js/main.86647e0e.chunk.js",
-    "main.js.map": "/d3geo-practice/static/js/main.86647e0e.chunk.js.map",
+    "main.css": "/d3geo-practice/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/d3geo-practice/static/js/main.77118e69.chunk.js",
+    "main.js.map": "/d3geo-practice/static/js/main.77118e69.chunk.js.map",
     "runtime-main.js": "/d3geo-practice/static/js/runtime-main.6020eefa.js",
     "runtime-main.js.map": "/d3geo-practice/static/js/runtime-main.6020eefa.js.map",
-    "static/js/2.eaa41b37.chunk.js": "/d3geo-practice/static/js/2.eaa41b37.chunk.js",
-    "static/js/2.eaa41b37.chunk.js.map": "/d3geo-practice/static/js/2.eaa41b37.chunk.js.map",
+    "static/js/2.5207cf77.chunk.js": "/d3geo-practice/static/js/2.5207cf77.chunk.js",
+    "static/js/2.5207cf77.chunk.js.map": "/d3geo-practice/static/js/2.5207cf77.chunk.js.map",
     "static/js/3.ee608649.chunk.js": "/d3geo-practice/static/js/3.ee608649.chunk.js",
     "static/js/3.ee608649.chunk.js.map": "/d3geo-practice/static/js/3.ee608649.chunk.js.map",
     "index.html": "/d3geo-practice/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/d3geo-practice/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.eaa41b37.chunk.js.LICENSE.txt": "/d3geo-practice/static/js/2.eaa41b37.chunk.js.LICENSE.txt",
+    "static/css/main.ea1455b2.chunk.css.map": "/d3geo-practice/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.5207cf77.chunk.js.LICENSE.txt": "/d3geo-practice/static/js/2.5207cf77.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/d3geo-practice/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6020eefa.js",
-    "static/js/2.eaa41b37.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.86647e0e.chunk.js"
+    "static/js/2.5207cf77.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.77118e69.chunk.js"
   ]
 }
